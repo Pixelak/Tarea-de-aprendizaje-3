@@ -1,3 +1,5 @@
+GIT erabiltzeko komandoen zerrenda bat:
+
 GIT CHEAT SHEET
 
 STAGE & SNAPSHOT
